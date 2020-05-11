@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Петр Слободин](https://up.htmlacademy.ru/htmlcss/28/user/1282193).
-* Наставник: `Иван Мулярчик`(https://htmlacademy.ru/profile/ivanmuliarchyk)
+* Наставник: [Иван Мулярчик](https://htmlacademy.ru/profile/ivanmuliarchyk).
 
 ---
 
